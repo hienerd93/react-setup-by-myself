@@ -15,3 +15,7 @@
 [html-webpack-plugin](https://webpack.js.org/plugins/html-webpack-plugin/)  
 [express-static](https://expressjs.com/en/starter/static-files.html)  
 [split-code](https://medium.com/hackernoon/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758)
+
+## The purpose
+
+Learn more about the configs in a framework JS.
