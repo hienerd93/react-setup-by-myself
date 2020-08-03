@@ -9,4 +9,4 @@ app.get('/', (req, res) => {
   res.sendFile(HTML_FILE);
 });
 
-app.listen(3000);
+app.listen(process.env.PORT || 5000);
