@@ -2,11 +2,18 @@
 
 - An app base react and webpack.
 
-## Setup
+## Update React Typescript
 
-### References
+[Setup](https://create-react-app.dev/docs/adding-typescript/)
 
-[React-Webpack-Typescrip](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)  
+```
+npm i -D @types/react @types/react-dom source-map-loader webpack webpack-cli
+```
+
+> setting `tsconfig.json`
+
+## References for setup
+
 [Install SASS](https://sass-lang.com/install)  
 [css-loader webpack](https://webpack.js.org/loaders/css-loader/)  
 [autoprefixer](https://www.npmjs.com/package/autoprefixer)  
