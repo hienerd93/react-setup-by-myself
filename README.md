@@ -26,3 +26,14 @@ npm i -D @types/react @types/react-dom source-map-loader webpack webpack-cli
 ## The purpose
 
 Learn more about the configs in a framework JS.
+
+## Notes
+
+> The meaning of babel  
+> The meaning of polyfills  
+> Node serve static folder  
+> The style-chain webpack: autoprefixer and sass  
+> .browserslistrc: babel and autoprefixer  
+> dependencies and devDependencies diff on push to serve
+> How to push code to heroku
+> dotenv and .env
